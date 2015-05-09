@@ -8,8 +8,7 @@ public class Main {
     public enum FIGURE {
         CIR,
         SQ,
-        TR,
-        Q
+        TR
     }
 
     public static Scanner sc = new Scanner(System.in);
